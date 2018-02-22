@@ -1,8 +1,8 @@
 {
-  "ddir": "dist",
+  "ddir": dist,
 
-  "name": "buildenv",
+  "name": buildenv,
   "location":{
-  "filename": "benv.xz"
+  "filename": benv.xz
   }
 }
