@@ -1,7 +1,7 @@
 <meta name="CatCut63b374858d"
 content="692BDD5173400C00D0720DB9220B2BF5Y8131" />
 # l0l
-Download directory: [https://sergds.ga/sergstuff/dindex.html](https://sergds.ga/sergstuff/dindex.html)
+Download directory: [https://sergds.github.io/sergstuff/dindex.html](/sergstuff/dindex.html)
 
 DooM Linux (Raspberry Pi 3/3B) : [[Google Cloud Storage]](https://storage.googleapis.com/sage-momentum-140108.appspot.com/doomlin.img)
 
