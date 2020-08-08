@@ -2,4 +2,4 @@
 
 [Downloads](/downloads.html)
 
-[Kilodata File server](https://kilodata.sergds.ga)
+[My shitcode](https://github.com/sergds)
