@@ -1,11 +1,10 @@
 ---
-title: SergDS' Personal Page - Dls
+title: Downloads
 
 
 layout: home
 ---
 
-# Downloads
 Old Downloads: [/sergstuff/dindex.html](/sergstuff/dindex.html)
 
 Still Alive In High Quality: [/sergstuff/sa/](/sergstuff/sa/)

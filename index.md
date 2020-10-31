@@ -1,11 +1,10 @@
 ---
-title: SergDS' Personal Page - Dls
+title: Home
 
 
 layout: home
 ---
 
-# SergDS Personal Page
 ### 16 y.o linux nerd
 
 [Downloads page (Some random stuff)](/downloads.html)
