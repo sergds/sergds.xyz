@@ -5,8 +5,8 @@ title: Home
 layout: home
 ---
 
-### 16 y.o linux nerd
+### A 16 y.o ~idiot~ random person
 
-[Downloads page (Some random stuff)](/downloads.html)
+[Downloads page (Some random stuff primarily uploaded for myself)](/downloads.html)
 
 [My shitcode (Well, mostly not mine :( )](https://github.com/sergds)
