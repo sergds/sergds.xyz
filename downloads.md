@@ -9,7 +9,7 @@ layout: default
 
 Not that great, actually
 
-Latest [Tenacity](https://github.com/tenacityteam/tenacity) Windows x64-release build (master branch) : [a21a554f5 (3.0.4-alpha)](https://storage.googleapis.com/sage-momentum-140108.appspot.com/tenacity-win-3.0.4-x64.exe)
+[Tenacity](https://github.com/tenacityteam/tenacity) Windows x64-release installer build (master branch) : [a21a554f5 (3.0.4-alpha)](https://storage.googleapis.com/sage-momentum-140108.appspot.com/tenacity-win-3.0.4-x64.exe)
 
 VERY Old Downloads(Don't click the link if not wearing hazmat suit): [/sergstuff/dindex.html](/sergstuff/dindex.html) <--- Warning: Crappy Web Design, your eyes will die.
 
