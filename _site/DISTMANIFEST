@@ -1,8 +1,0 @@
-{
-  "ddir": "dist",
-
-  "name": "buildenv",
-  "location":{
-  "filename": "benv.xz"
-  }
-}
