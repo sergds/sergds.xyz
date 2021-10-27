@@ -7,8 +7,7 @@ layout: home
 
 ## Congratulations finding this website, here you can find some random things, that you might like (probably dislike).
 
-### Now hosted on [IPFS](https://ipfs.io/)!
-### I'am also planning on migrating downloads from Google Cloud Storage to IPFS too.
+### !I'am planning on migrating downloads from Google Cloud Storage to IPFS!
 
 [Tenacity](https://github.com/tenacityteam/tenacity) windows installer build can be found on downloads page. (If you don't want/can't build it yourself)
 
