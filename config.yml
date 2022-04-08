@@ -1,0 +1,52 @@
+baseURL: 'https://sergds.ga'
+languageCode: 'ru-ru'
+title: 'SergDS'
+theme: "PaperMod"
+
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: SergDS
+  description: "SergDS"
+  keywords: [Homepage]
+  author: sergds
+  # author: ["Me", "You"] # multiple authors
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  homeInfoParams:
+    title: "Homepage"
+    content: >
+        ### Congratulations finding this website, here you can find some random things, that you might like (probably dislike).  
+
+
+        - Downloads are in [Downloads page](/downloads)
+        
+        - [UltraShooter online](http://dl-nav.sergds.ga/ultrashooter-web)  
+        
+        - [Github](https://github.com/sergds)
+
+menu:
+  main:
+    - identifier: downloads
+      name: Downloads
+      url: /downloads/
+      weight: 10
+    - identifier: home
+      name: Home
+      url: /
+      weight: 5
