@@ -16,37 +16,45 @@ params:
   defaultTheme: dark # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
-  ShowShareButtons: true
+  ShowReadingTime: false
+  ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
-  disableSpecial1stPost: false
+  disableSpecial1stPost: true
   disableScrollToTop: false
   comments: false
-  hidemeta: false
+  hidemeta: true
   hideSummary: false
   showtoc: false
   tocopen: false
-  homeInfoParams:
-    title: "Homepage"
-    content: >
-        ### Congratulations finding this website, here you can find some random things, that you might like (probably dislike).  
 
+defaultContentLanguage: ru
+languages:
+  ru:
+    menu:
+      main:
+        - identifier: downloads
+          name: "Загрузки"
+          url: /downloads/
+          weight: 10
+        - identifier: home
+          name: "Домашняя страница"
+          url: /
+          weight: 5
+    title: SergDS
+    weight: 1
+  en:
+    menu:
+      main:
+        - identifier: downloads
+          name: Downloads
+          url: /downloads/
+          weight: 10
+        - identifier: home
+          name: Home
+          url: /
+          weight: 5
+    title: SergDS
+    weight: 2
 
-        - Downloads are in [Downloads page](/downloads)
-        
-        - [UltraShooter online](http://dl-nav.sergds.ga/ultrashooter-web)  
-        
-        - [Github](https://github.com/sergds)
-
-menu:
-  main:
-    - identifier: downloads
-      name: Downloads
-      url: /downloads/
-      weight: 10
-    - identifier: home
-      name: Home
-      url: /
-      weight: 5
