@@ -15,7 +15,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
-
+  favicon: "/favicon.ico"
   ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
