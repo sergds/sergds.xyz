@@ -12,7 +12,7 @@ draft: false
 
 Это мой первый мультиплеер проект, поэтому он немного кривой.
 
-И да, в тут есть скины: ![some skins](/images/5oclock/skins.png)
+И да, тут есть скины: ![some skins](/images/5oclock/skins.png)
 
 Управление:
 WASD или Стрелки
