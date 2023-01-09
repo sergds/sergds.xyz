@@ -6,6 +6,8 @@ draft: false
 
 **Поздравляю, вы нашли этот сайт, здесь вы можете найти рандомную хрень, которая может вам понравиться (вероятнее всего, нет).**   
 
+**Новый релиз: [5 O'Clock: The Battlefield](/5oclock)**
+
 Загрузки [тут](/downloads).
 
 [UltraShooter online](http://dl-nav.sergds.ga/ultrashooter-web)  

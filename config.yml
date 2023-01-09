@@ -42,6 +42,10 @@ languages:
           name: "Домашняя страница"
           url: /
           weight: 5
+        - identifier: 5oclock
+          name: "5 O'Clock: The Battlefield"
+          url: /5oclock
+          weight: 11
     title: SergDS
     weight: 1
   en:
@@ -55,6 +59,10 @@ languages:
           name: Home
           url: /
           weight: 5
+        - identifier: 5oclock
+          name: "5 O'Clock: The Battlefield"
+          url: /5oclock
+          weight: 11
     title: SergDS
     weight: 2
 
