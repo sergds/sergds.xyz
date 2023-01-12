@@ -2,7 +2,7 @@ baseURL: 'https://sergds.ga'
 languageCode: 'ru-ru'
 title: 'SergDS'
 theme: "PaperMod"
-
+googleAnalytics: "G-422L6YDBWT"
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -28,7 +28,6 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-  googleAnalytics: G-422L6YDBWT
 
 defaultContentLanguage: ru
 languages:
