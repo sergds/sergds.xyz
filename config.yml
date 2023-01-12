@@ -28,6 +28,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  googleAnalytics: G-422L6YDBWT
 
 defaultContentLanguage: ru
 languages:
