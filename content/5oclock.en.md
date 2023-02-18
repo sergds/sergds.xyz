@@ -24,7 +24,10 @@ Left/Right halfs of the screen to move. Arrow button to jump.
 [Windows](https://storage.googleapis.com/sage-momentum-140108.appspot.com/5oclock/5oclock.exe)
 [macOS](https://storage.googleapis.com/sage-momentum-140108.appspot.com/5oclock/5oclock.zip)
 [Android](https://storage.googleapis.com/sage-momentum-140108.appspot.com/5oclock/5oclock.apk)
-### Alternate download links (slower)
-[Windows](http://home-dl.mzxnet.keenetic.pro/dl/game_releases/5oclock/5oclock.exe)
-[macOS](http://home-dl.mzxnet.keenetic.pro/dl/game_releases/5oclock/5oclock.zip)
-[Android](http://home-dl.mzxnet.keenetic.pro/dl/game_releases/5oclock/5oclock.apk)
+
+### Alternative downloads.
+My home server proxied through [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/). DL speed depends on my home network usage and/or server's cpu usage (It's Raspberry Pi 3B).
+
+[Windows](https://homedl.sergds.ga/dl/game_releases/5oclock/5oclock.exe)
+[macOS](https://homedl.sergds.ga/dl/game_releases/5oclock/5oclock.zip)
+[Android](https://homedl.sergds.ga/dl/game_releases/5oclock/5oclock.apk)

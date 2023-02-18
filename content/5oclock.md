@@ -21,10 +21,13 @@ WASD или Стрелки
 Левая/Правая часть экрана для передвижения. Кнопка со стрелкой для прыжка.
 
 ### Загрузки
+Google Cloud Storage:
 [Windows](https://storage.googleapis.com/sage-momentum-140108.appspot.com/5oclock/5oclock.exe)
 [macOS](https://storage.googleapis.com/sage-momentum-140108.appspot.com/5oclock/5oclock.zip)
 [Android](https://storage.googleapis.com/sage-momentum-140108.appspot.com/5oclock/5oclock.apk)
-### Альтернативные медленные загрузки (для тех у кого заблокирован Google Cloud Storage)
-[Windows](http://home-dl.mzxnet.keenetic.pro/dl/game_releases/5oclock/5oclock.exe)
-[macOS](http://home-dl.mzxnet.keenetic.pro/dl/game_releases/5oclock/5oclock.zip)
-[Android](http://home-dl.mzxnet.keenetic.pro/dl/game_releases/5oclock/5oclock.apk)
+### Альтернативные загрузки.
+Мой домашний сервер проксированный через [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/). Скорость зависит от загруженности моей домашней сети и/или загруженности ЦПУ на сервере.
+
+[Windows](https://homedl.sergds.ga/dl/game_releases/5oclock/5oclock.exe)
+[macOS](https://homedl.sergds.ga/dl/game_releases/5oclock/5oclock.zip)
+[Android](https://homedl.sergds.ga/dl/game_releases/5oclock/5oclock.apk)
