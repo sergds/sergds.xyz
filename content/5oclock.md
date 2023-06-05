@@ -28,6 +28,6 @@ Google Cloud Storage:
 ### Альтернативные загрузки.
 Мой домашний сервер проксированный через [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/). Скорость зависит от загруженности моей домашней сети и/или загруженности ЦПУ на сервере.
 
-[Windows](https://homedl.sergds.ga/game_releases/5oclock/5oclock.exe)
-[macOS](https://homedl.sergds.ga/game_releases/5oclock/5oclock.zip)
-[Android](https://homedl.sergds.ga/game_releases/5oclock/5oclock.apk)
+[Windows](https://homedl.sergds.xyz/game_releases/5oclock/5oclock.exe)
+[macOS](https://homedl.sergds.xyz/game_releases/5oclock/5oclock.zip)
+[Android](https://homedl.sergds.xyz/game_releases/5oclock/5oclock.apk)

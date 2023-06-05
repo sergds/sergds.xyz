@@ -28,6 +28,6 @@ Left/Right halfs of the screen to move. Arrow button to jump.
 ### Alternative downloads.
 My home server proxied through [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/). DL speed depends on my home network usage and/or server's cpu usage (It's Raspberry Pi 3B).
 
-[Windows](https://homedl.sergds.ga/game_releases/5oclock/5oclock.exe)
-[macOS](https://homedl.sergds.ga/game_releases/5oclock/5oclock.zip)
-[Android](https://homedl.sergds.ga/game_releases/5oclock/5oclock.apk)
+[Windows](https://homedl.sergds.xyz/game_releases/5oclock/5oclock.exe)
+[macOS](https://homedl.sergds.xyz/game_releases/5oclock/5oclock.zip)
+[Android](https://homedl.sergds.xyz/game_releases/5oclock/5oclock.apk)
