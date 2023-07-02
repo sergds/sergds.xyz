@@ -12,4 +12,11 @@ draft: false
 
 [UltraShooter online](http://dl-nav.sergds.ga/ultrashooter-web)  
 
+Контакты:
 [Github](https://github.com/sergds)
+[YouTube](https://youtube.com/@sergds)
+[Twitter](https://twitter.com/sergds2)
+[Telegram](https://t.me/sergdser)
+
+E-Mail: me <at> sergds.xyz
+
