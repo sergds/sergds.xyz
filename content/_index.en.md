@@ -16,6 +16,5 @@ Contacts:
 [Github](https://github.com/sergds)
 [YouTube](https://youtube.com/@sergds)
 [Twitter](https://twitter.com/sergds2)
-[Telegram](https://t.me/sergdser)
 
-E-Mail: me <at> sergds.xyz
+E-Mail: me at sergds.xyz
