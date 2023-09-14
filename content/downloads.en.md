@@ -4,7 +4,7 @@ date: 2022-04-08T18:56:25+03:00
 draft: false
 ---
 
-[Latest UltraShooter (64-bit)](https://dl-nav.sergds.xyz/ultrashooter)
+[Latest UltraShooter (64-bit)](https://storage.googleapis.com/sage-momentum-140108.appspot.com/ultrashooter/pc_build/ultrashooter_build.zip)
 [polishcow.exe](https://storage.googleapis.com/sage-momentum-140108.appspot.com/polishcow.zip)  
 [kontra.exe](https://storage.googleapis.com/sage-momentum-140108.appspot.com/kontra.exe)  
 
