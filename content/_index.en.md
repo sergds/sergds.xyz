@@ -10,8 +10,6 @@ draft: false
 
 Downloads are in the [Downloads page](/en/downloads).
 
-[UltraShooter online](http://dl-nav.sergds.ga/ultrashooter-web)  
-
 Contacts:
 [Github](https://github.com/sergds)
 [YouTube](https://youtube.com/@sergds)

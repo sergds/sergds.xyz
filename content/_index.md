@@ -10,8 +10,6 @@ draft: false
 
 Загрузки [тут](/downloads).
 
-[UltraShooter online](http://dl-nav.sergds.ga/ultrashooter-web)  
-
 Контакты:
 [Github](https://github.com/sergds)
 [YouTube](https://youtube.com/@sergds)
