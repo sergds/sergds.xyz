@@ -10,6 +10,8 @@ draft: false
 
 Downloads are in the [Downloads page](/en/downloads).
 
+More releases of my games and other trash are here: [My homeserver](https://homedl.sergds.xyz/).
+
 Contacts:
 [Github](https://github.com/sergds)
 [YouTube](https://youtube.com/@sergds)

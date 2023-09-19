@@ -10,6 +10,8 @@ draft: false
 
 Загрузки [тут](/downloads).
 
+Больше релизов моих игр и другого хлама тут: [Домашний Сервер](https://homedl.sergds.xyz/).
+
 Контакты:
 [Github](https://github.com/sergds)
 [YouTube](https://youtube.com/@sergds)
