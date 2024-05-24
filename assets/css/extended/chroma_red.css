@@ -1,0 +1,21 @@
+#menu .active {
+    border-bottom-color: #de3030;
+}
+
+.list.dark {
+    background: #131313;
+    background-image: url("/images/new_brndg_x_bg.svg");
+    background-repeat: repeat;
+}
+
+body {
+    background: #131313;
+    background-image: url("/images/new_brndg_x_bg.svg");
+    background-repeat: repeat;
+}
+
+.logo img {
+    margin-top: 10px;
+    height: 60px;
+    size: 60px;
+}

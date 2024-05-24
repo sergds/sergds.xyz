@@ -14,7 +14,7 @@ params:
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
-  disableThemeToggle: false
+  disableThemeToggle: true
   favicon: "/favicon.ico"
   ShowReadingTime: false
   ShowShareButtons: false
@@ -24,10 +24,33 @@ params:
   disableSpecial1stPost: true
   disableScrollToTop: false
   comments: false
-  hidemeta: true
+  hidemeta: false
+  hideAuthor: true
   hideSummary: false
   showtoc: false
   tocopen: false
+  profileMode:
+    enabled: false
+    title: "<Title>" # optional default will be site title
+    subtitle: ""
+    imageUrl: "/images/avatar_logo.png" # optional
+    imageTitle: "avatar" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: "Games"
+        url: "/games"
+
+  socialIcons: # optional
+    - name: "Github"
+      url: "https://github.com/sergds"
+    - name: "Youtube"
+      url: "https://youtube.com/@sergds"
+    - name: "Twitter"
+      url: "https://twitter.com/sergds2"
+  label:
+    text: " "
+    icon: "/images/new_brndg_logo.png"
 
 defaultContentLanguage: ru
 languages:
@@ -42,9 +65,9 @@ languages:
           name: "Домашняя страница"
           url: /
           weight: 5
-        - identifier: 5oclock
-          name: "5 O'Clock: The Battlefield"
-          url: /5oclock
+        - identifier: games
+          name: "Игровые проекты"
+          url: /games
           weight: 11
     title: SergDS
     weight: 1
@@ -59,9 +82,9 @@ languages:
           name: Home
           url: /
           weight: 5
-        - identifier: 5oclock
-          name: "5 O'Clock: The Battlefield"
-          url: /5oclock
+        - identifier: games
+          name: "Game Projects"
+          url: /games
           weight: 11
     title: SergDS
     weight: 2
