@@ -2,6 +2,7 @@
 title: "5 O'Clock: The Battlefield"
 date: 2023-01-09T14:00:00+03:00
 draft: false
+hiddenInHomeList: true
 ---
 
 ![header-img](/images/5oclock/icon128.png)
@@ -13,12 +14,17 @@ This is a multiplayer last team standing game. There are 4 teams with 2 players 
 Also this is my first online multiplayer project, so it's a bit broken.
 
 And yes, it has skins: ![some skins](/images/5oclock/skins.png)
+Skins by DwarfShark
 
 Controls:
 WASD or Arrow Keys
 
 Mobile controls:
 Left/Right halfs of the screen to move. Arrow button to jump.
+
+### Screenshots
+
+{{< scrollable_gallery "/images/5oclock/en/screenshot1.png" "/images/5oclock/en/screenshot2.png" "/images/5oclock/en/screenshot3.png" "/images/5oclock/en/screenshot4.png" "/images/5oclock/screenshot5.png" "/images/5oclock/en/screenshot6.png">}}
 
 ### Downloads
 [Windows](https://storage.googleapis.com/sage-momentum-140108.appspot.com/5oclock/5oclock.exe)

@@ -2,6 +2,7 @@
 title: "5 O'Clock: The Battlefield"
 date: 2023-01-09T14:00:00+03:00
 draft: false
+hiddenInHomeList: true
 ---
 
 ![header-img](/images/5oclock/icon128.png)
@@ -13,12 +14,18 @@ draft: false
 Это мой первый мультиплеер проект, поэтому он немного кривой.
 
 И да, тут есть скины: ![some skins](/images/5oclock/skins.png)
+Скины от DwarfShark
+
 
 Управление:
 WASD или Стрелки
 
 Мобильное управление:
 Левая/Правая часть экрана для передвижения. Кнопка со стрелкой для прыжка.
+
+### Скриншоты
+
+{{< scrollable_gallery "/images/5oclock/screenshot1.png" "/images/5oclock/screenshot2.png" "/images/5oclock/screenshot3.png" "/images/5oclock/screenshot4.png" "/images/5oclock/screenshot5.png" "/images/5oclock/screenshot6.png">}}
 
 ### Загрузки
 Google Cloud Storage:
