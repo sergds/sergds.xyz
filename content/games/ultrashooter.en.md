@@ -31,6 +31,6 @@ Controls:
 {{< scrollable_gallery "/images/ultrashooter/scr1.png" "/images/ultrashooter/scr2.png" "/images/ultrashooter/scr3.png" "/images/ultrashooter/buildinfo.png">}}
 
 ### Downloads
-[Windows v1.0 (2020)](https://storage.googleapis.com/sage-momentum-140108.appspot.com/ultrashooter/pc_build/ultrashooter_build.zip)
+[Windows v1.0 (2022)](https://storage.googleapis.com/sage-momentum-140108.appspot.com/ultrashooter/pc_build/ultrashooter_build.zip)
 [Windows v1.5 (2025)](https://homedl.sergds.xyz/game_releases/ultrashooter/ultrashooter-1.5-win.zip)
 [Source Code](https://github.com/sergds/ultrashooter)
