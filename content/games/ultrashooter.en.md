@@ -23,6 +23,8 @@ The game was initially created as a better clone of the same game i found on a s
 
 A 'normal' main menu was finished only in september 2022, the rest of ideas never saw a light of day. The game was abandonded in december 2022, the code is in terrible state and builds only on windows.
 
+In 2025 the game build system was changed and some dead code was stripped. This 'update' is released as v1.5
+
 Controls:
 - WASD — Movement
 - Spacebar — Fire
@@ -31,7 +33,7 @@ Controls:
 {{< scrollable_gallery "/images/ultrashooter/scr1.png" "/images/ultrashooter/scr2.png" "/images/ultrashooter/scr3.png" "/images/ultrashooter/buildinfo.png">}}
 
 ### Downloads
-[Windows v1.0 (2022)](https://storage.googleapis.com/sage-momentum-140108.appspot.com/ultrashooter/pc_build/ultrashooter_build.zip)
+[Windows v1.0 (2022)](https://homedl.sergds.xyz/sage-momentum-140108.appspot.com/ultrashooter/pc_build/ultrashooter_build.zip)
 
 [Windows v1.5 (2025)](https://homedl.sergds.xyz/game_releases/ultrashooter/ultrashooter-1.5-win.zip)
 

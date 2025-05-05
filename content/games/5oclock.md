@@ -28,11 +28,6 @@ WASD или Стрелки
 {{< scrollable_gallery "/images/5oclock/screenshot1.png" "/images/5oclock/screenshot2.png" "/images/5oclock/screenshot3.png" "/images/5oclock/screenshot4.png" "/images/5oclock/screenshot5.png" "/images/5oclock/screenshot6.png">}}
 
 ### Загрузки
-Google Cloud Storage:
-[Windows](https://storage.googleapis.com/sage-momentum-140108.appspot.com/5oclock/5oclock.exe)
-[macOS](https://storage.googleapis.com/sage-momentum-140108.appspot.com/5oclock/5oclock.zip)
-[Android](https://storage.googleapis.com/sage-momentum-140108.appspot.com/5oclock/5oclock.apk)
-### Альтернативные загрузки.
 Мой домашний сервер проксированный через [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/). Скорость зависит от загруженности моей домашней сети и/или загруженности ЦПУ на сервере.
 
 [Windows](https://homedl.sergds.xyz/game_releases/5oclock/5oclock.exe)

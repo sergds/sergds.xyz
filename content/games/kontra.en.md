@@ -19,4 +19,4 @@ Controls:
 {{< scrollable_gallery "/images/kontra/scr1.png" "/images/kontra/scr2.png" >}}
 
 ### Downloads
-[Windows](https://storage.googleapis.com/sage-momentum-140108.appspot.com/kontra.exe)
+[Windows](https://homedl.sergds.xyz/sage-momentum-140108.appspot.com/kontra.exe)

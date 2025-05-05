@@ -21,6 +21,8 @@ hiddenInHomeList: true
 
 Нормальное главное меню было реализовано только к сентябрю 2022, остальные идеи так света дня и не увидели. Игра заброшена с декабря 2022, код в ужасном состоянии и собирается только под Windows.
 
+В 2025 была изменена система сборки проекта и удалён некоторый мёртвый код. Это "обновление" выпущено как версия 1.5
+
 Управление:
 - WASD — Движение
 - Пробел — Огонь
@@ -29,7 +31,7 @@ hiddenInHomeList: true
 {{< scrollable_gallery "/images/ultrashooter/scr1.png" "/images/ultrashooter/scr2.png" "/images/ultrashooter/scr3.png" "/images/ultrashooter/buildinfo.png">}}
 
 ### Загрузки
-[Windows v1.0 (2022)](https://storage.googleapis.com/sage-momentum-140108.appspot.com/ultrashooter/pc_build/ultrashooter_build.zip)
+[Windows v1.0 (2022)](https://homedl.sergds.xyz/sage-momentum-140108.appspot.com/ultrashooter/pc_build/ultrashooter_build.zip)
 
 [Windows v1.5 (2025)](https://homedl.sergds.xyz/game_releases/ultrashooter/ultrashooter-1.5-win.zip)
 
