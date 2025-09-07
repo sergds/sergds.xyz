@@ -28,7 +28,7 @@ WASD или Стрелки
 {{< scrollable_gallery "/images/5oclock/screenshot1.png" "/images/5oclock/screenshot2.png" "/images/5oclock/screenshot3.png" "/images/5oclock/screenshot4.png" "/images/5oclock/screenshot5.png" "/images/5oclock/screenshot6.png">}}
 
 ### Загрузки
-Мой домашний сервер проксированный через [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/). Скорость зависит от загруженности моей домашней сети и/или загруженности ЦПУ на сервере.
+Мой домашний сервер проксированный через AmneziaWG тунель до VPS. Скорость зависит от загруженности моей домашней сети и/или загруженности ЦПУ на сервере.
 
 [Windows](https://homedl.sergds.xyz/game_releases/5oclock/5oclock.exe)
 [macOS](https://homedl.sergds.xyz/game_releases/5oclock/5oclock.zip)

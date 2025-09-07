@@ -13,4 +13,4 @@ Contacts:
 [YouTube](https://youtube.com/@sergds)
 [Twitter](https://twitter.com/sergds2)
 
-E-Mail: me at sergds.xyz
+E-Mail: me <at> sergds.xyz
