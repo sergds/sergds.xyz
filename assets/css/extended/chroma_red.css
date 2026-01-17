@@ -2,7 +2,7 @@
     border-bottom-color: #de3030;
 }
 
-.list.dark {
+[data-theme="dark"] .list {
     background: #131313;
     background-image: url("/images/new_brndg_x_bg.svg");
     background-repeat: repeat;
