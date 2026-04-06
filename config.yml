@@ -4,6 +4,13 @@ title: 'SergDS'
 theme: "PaperMod"
 googleAnalytics: "G-422L6YDBWT"
 
+deployment:
+  targets:
+  - name: main
+    url: s3://sergds.xyz?endpoint=http://10.0.2.3:3900&awssdk=v2&use_path_style=true&disable_https=true&region=garage
+  - name: forge-ci
+    url: s3://sergds.xyz?endpoint=http://10.96.64.2:3900&awssdk=v2&use_path_style=true&disable_https=true&region=garage
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: SergDS
