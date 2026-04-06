@@ -41,5 +41,8 @@ jobs:
             --baseURL "sergds.xyz/"
       - name: Deploy to Garage
         id: deployment
+        env:
+          AWS_ACCESS_KEY_ID='${{ secrets.GARAGE_ACCESS_KEY_ID }}'
+          AWS_SECRET_ACCESS_KEY='${{ secrets.GARAGE_SECRET_ACCESS_KEY }}'
         run: |
           hugo deploy --target forge-ci
