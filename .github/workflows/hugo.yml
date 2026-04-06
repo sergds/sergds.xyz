@@ -38,7 +38,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "sergds.xyz/"
+            --baseURL "https://sergds.xyz/"
       - name: Deploy to Garage
         id: deployment
         env:
