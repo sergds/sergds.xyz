@@ -15,7 +15,7 @@ defaults:
 
 jobs:
   # Build job
-  build:
+  build-deploy:
     runs-on: ubuntu-24.04
     env:
       HUGO_VERSION: 0.160.0
@@ -39,16 +39,7 @@ jobs:
           hugo \
             --minify \
             --baseURL "sergds.xyz/"
-
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-24.04
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
+      - name: Deploy to Garage
         id: deployment
         run: |
           hugo deploy --target forge-ci
