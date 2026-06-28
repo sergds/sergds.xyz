@@ -2,7 +2,6 @@ baseURL: 'https://sergds.xyz'
 languageCode: 'ru-ru'
 title: 'SergDS'
 theme: "PaperMod"
-googleAnalytics: "G-422L6YDBWT"
 
 deployment:
   targets:
